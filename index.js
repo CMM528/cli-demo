@@ -52,3 +52,5 @@ program
 // await downloadTemplate("CMM528/router", "test2")
 
 program.parse(process.argv)
+
+console.log("测试")
